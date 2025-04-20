@@ -69,7 +69,7 @@ function CodingStats({ techStacks, githubUsername }: CodingStatsProps) {
               <div className="flex items-center gap-2 text-white-2 mt-4 ml-4">
                 <LuMapPin size={18} />
                 <h2 className="text-sm font-light">
-                  Taipei, Taiwan (UTC +08:00)
+                  Kediri, East Java (UTC +07:00)
                 </h2>
               </div>
               <Globe />
