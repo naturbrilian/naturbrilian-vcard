@@ -5,7 +5,7 @@ publishedAt: 2023-04
 summary: Motion Graphics Project i create before
 tags: 
   - 
-banner: /images/banner/projects/evolving-beasts.webp
+banner: /images/banner/projects/idul-fitri.webp
 alt: 
 ---
 
