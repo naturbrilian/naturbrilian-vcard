@@ -38,6 +38,7 @@ const config: Config = {
   title: "Lieba Natur Brilian (naturbrilian | Write Anything",
   description:
     "Iam Liba Natur Brilian and also known as Natur or gingalibadeidara, a video editor and graphics designer with a deep passion for technology, art, music and content creator. When im not working i create vector and translating stuff.",
+  author: "Lieba Natur Brilian - naturbrilian",
   keywords: [
     "Lieba Natur Brilian",
     "naturbrilian",
