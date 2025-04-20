@@ -187,59 +187,7 @@ const config: Config = {
     pronouns: "She/Her",
     githubUsername: "naturbrilian",
     introduction: `
-# Hello and Welcome to my site!
-
-I’m Liba Natur Brilian and also known as Natur or gingalibadeidara, a video editor and graphics designer with a deep passion for technology, art, music and content creator. Here, I share my recent project like design, video editing, vector, and blogging. I hope this platform can be a space to share inspiration, ideas, and engaging discussions with you.
-
-# My Interest #
-
-## Technologies ##
-
-Already interested in technology since elementary school, initially because of the internet cafe era at that time. At first, I only knew the games that came with the operating system, then in 2007 I got to know the internet and others.
-
-## Music ##
-
-At first, it was because my father himself almost every Sunday morning played songs through a VCD player and cassette tape. At first, he was only interested in the genre of old western songs, then Indonesian songs, then to Kpop because of his junior high school friends at that time (yes,you know Super Junior and SNSD) until finally to JPop songs until now. Oh yes i also like classical music, Doujin music like touhou and etc.
-
-## Anime ##
-
-It started with anime that aired on Indonesian TV stations. The first anime I watched was Naruto, and then in 2012 I started to get interested in Little Busters (yes, this is also one of my favorite anime), and finally I continued until now, even though I rarely watch it anymore. And progress anime i watch now you can check my Anilist
-
-## Game & Visual novel ##
-
-Well, for this game and visual novel, I was initially curious, starting from hearing the song nightcore (what sped calls it now), and curious because the artwork used in the video was sourced from fan art, anime or from other sources. It turned out that it came from Visual Novel & because from here I started to be interested in playing Visual Novel. At that time, the Visual Novel that was being hotly discussed was Koi Kakeru Shin Ai Kanojo. As for the game itself, it started because of my school friend who played the game Bully Scholarship, and the first mobile game I played was THE IDOLM@STER: CINDERELLA GIRLS STARLIGHTS or known as deresute.
-
-## Translation ##
-
-To be honest, I first became interested in the world of translation when I learned to make karaoke effects and subtitles. In 2016 I started to dive into the world of translation, even though this was not my major at school. At first it was just to fill my free time, because of my interest in language lessons, both Indonesian and English. And this must be developed further, especially since I want to be able to speak German, Japanese, and Mandarin.
-
-# ANOTHER SOCIAL MEDIA & CONTACT #
-
-If you have any questions, suggestions, or just want to chat, feel free to reach out to me via X, Discord or my another socmed. I’m always excited to connect with people who share similar passions or offer different perspectives.
-
-## Media social ##
-
-### Facebook:  ###
-<a class="inline text-orange-yellow-crayola underline hover:text-opacity-70" target="_blank" rel="noreferrer" href="https://fb.me/naturbrilian28" node="[object Object]">Lieba Natur Brilian</a>
-// <a class="inline text-orange-yellow-crayola underline hover:text-opacity-70" target="_blank" rel="noreferrer" href="https://fb.me/gingalibadeidara.works" node="[object Object]">Gingalibadeidara Works</a>
-
-### Twitter: ###
-<a class="inline text-orange-yellow-crayola underline hover:text-opacity-70" target="_blank" rel="noreferrer" href="https://x.com/naturbrilian" node="[object Object]">@naturbrilian</a>
-
-### Fediverse: ###
-<a class="inline text-orange-yellow-crayola underline hover:text-opacity-70" target="_blank" rel="noreferrer" href="https://sakurajima.social/@naturbrilian" node="[object Object]">@naturbrilian@sakurajima.social</a> //
-<a class="inline text-orange-yellow-crayola underline hover:text-opacity-70" target="_blank" rel="noreferrer" href="https://geoplanetary.net/@naturbrilian" node="[object Object]">@naturbrilian@geoplanetary.net</a> //
-<a class="inline text-orange-yellow-crayola underline hover:text-opacity-70" target="_blank" rel="noreferrer" href="https://mastodon.social/@naturbrilian" node="[object Object]">@naturbrilian@mastodon.social</a>
-
-## Project: ##
-### Crowdin: ### 
-<a class="inline text-orange-yellow-crayola underline hover:text-opacity-70" target="_blank" rel="noreferrer" href="https://crowdin.com/profile/naturbrilian" node="[object Object]">@naturbrilian</a>
-
-### Github: ### 
-<a class="inline text-orange-yellow-crayola underline hover:text-opacity-70" target="_blank" rel="noreferrer" href="https://github.com/naturbrilian" node="[object Object]">@naturbrilian</a>
-
-### Graphics Design, and Vector: ### 
-<a class="inline text-orange-yellow-crayola underline hover:text-opacity-70" target="_blank" rel="noreferrer" href="https://deviantart.com/gingalibadeidara" node="[object Object]">Deviantart</a> // <a class="inline text-orange-yellow-crayola underline hover:text-opacity-70" target="_blank" rel="noreferrer" href="https://pixiv.me/hifumidaiki" node="[object Object]">Pixiv</a>
+Hello i am Lieba Natur Brilian also people call me with Natur. I’m graphics designer, video editor and translator contributor for various services, apps and software. Im also like watching anime and multifandom. Also people know me as gingalibadeidara on another website like alphacoders.
     `,
     lifestyles: [
       {
