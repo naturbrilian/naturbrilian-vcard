@@ -8,7 +8,7 @@ tags:
   - Vector
   - Graphics Design
 summary: "I’m Liba Natur Brilian and also known as Natur or gingalibadeidara, a video editor and graphics designer with a deep passion for technology, art, music and content creator."
-banner: /images/banner/posts/who-is-chun-ho-hugo-lin.webp
+banner: /images/banner/posts/IMG20230716151234.jpg
 alt: "Who is Chun-Ho (Hugo) Lin"
 mathjax: true
 ---
