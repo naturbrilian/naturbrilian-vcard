@@ -11,6 +11,14 @@ alt:
 
 Banner Commision i design before and some request from client
 
+# vector logo design #
+
+![Ihram logo komunitas](/images/banner/projects/ihram-logo-community.jpg)
+
+# Joki Gim #
+
+![Joira joki fgo](/images/banner/projects/joki-fgo.jpg)
+
 # Header SNS #
 
 ![axionite discord](/images/banner/projects/chika-kom.png)
