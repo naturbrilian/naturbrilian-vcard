@@ -20,6 +20,7 @@ This is my another project for personal
 ![Priconne Ver. 2](/images/banner/projects/priconne-2.jpg)
 ![Sugar Apple Fairy Tale](/images/banner/projects/sugar.png)
 ![Nakiri Ayame](/images/banner/projects/nakiri-ayame-1.png)
+![Natur Brilian Banner](/images/banner/projects/iiiiiyyy.png)
 
 # Social Media Banner for My Project #
 
