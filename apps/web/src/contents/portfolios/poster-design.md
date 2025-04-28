@@ -5,7 +5,7 @@ publishedAt: 2023-09-19
 summary: Poster Design
 tags: 
   - 
-banner: /images/banner/projects/eiki.jpg
+banner: /images/banner/projects/poster-thumbnail.jpg
 alt: 
 ---
 
