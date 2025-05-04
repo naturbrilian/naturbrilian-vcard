@@ -49,4 +49,11 @@ Line art was the first project in 2016 until 2019, but did not post on social me
 ![Kiana Kaslana](/images/banner/projects/kiana_kaslana___vector_by_gingalibadeidara_dedd24e.png)
 ![Karen Aijou](/images/banner/projects/karen_aijou_from_starira_by_gingalibadeidara_ddbgkjp.png)
 ![Kawasaki Sakura](/images/banner/projects/kawasaki_sakura_by_gingalibadeidara_dehty10.png)
-
+![Kin Tsuchi](/images/banner/projects/kin_tsuchi_by_gingalibadeidara_def22da.png)
+![Kinako Sakurakoji](/images/banner/projects/kinako_sakurakoji_by_gingalibadeidara_dfa0gmo.png)
+![Kirito Kirigaya](/images/banner/projects/kirito_kirigaya_kazuto_by_gingalibadeidara_dep97g7.png)
+![Kita Ikuyo V1](/images/banner/projects/kita_ikuyo___minimalist_vector_by_gingalibadeidara_dfsbqd3.png)
+![Kokkoro](/images/banner/projects/kokkoro_by_gingalibadeidara_ddvdwo5.png)
+![Kono Miyako](/images/banner/projects/kono_miyako_by_gingalibadeidara_ddrzjyz.png)
+![Kud Wafter](/images/banner/projects/kud_wafter___vector_by_gingalibadeidara_deasg9e.png)
+![Kuroha Shida](/images/banner/projects/kuroha_shida___vector_by_gingalibadeidara_deko8iu.png)
