@@ -66,6 +66,7 @@ Line art was the first project in 2016 until 2019, but did not post on social me
 ![LLENN](/images/banner/projects/llenn_by_gingalibadeidara_deb7zli.jpg)
 ![Hitori Gotoh](/images/banner/projects/hitori_gotoh_bocchi_the_rock_by_gingalibadeidara_dfihk0r.png)
 ![Kita Ikuyo V1](/images/banner/projects/kita_ikuyo___minimalist_vector_by_gingalibadeidara_dfsbqd3.png)
+![Kita Ikuyo V2](/images/banner/projects/image.png)
 ![Ryou Yamada](/images/banner/projects/ryou_yamada___vector_by_gingalibadeidara_dfisttn.png)
 ![Kokkoro](/images/banner/projects/kokkoro_by_gingalibadeidara_ddvdwo5.png)
 ![Karyl](/images/banner/projects/kyaru_from_princess_connect__re_dive_by_gingalibadeidara_ddx4j20.jpg)
@@ -100,6 +101,9 @@ Line art was the first project in 2016 until 2019, but did not post on social me
 ![Tuyu Demon Vector](/images/banner/projects/tuyu___demon___minimalist_by_gingalibadeidara_deith49.png)
 ![Tohru Kobayashi](/images/banner/projects/tohru_kobayashi_by_gingalibadeidara_deo1ufg.png)
 ![Usada Pekora](/images/banner/projects/usada_pekora_by_gingalibadeidara_dgni0nh.png)
-![Youmu Konpaku](/images/banner/projects/syoumu_konpaku_vector_by_gingalibadeidara_dfm3b4d.png)
-
+![Youmu Konpaku](/images/banner/projects/youmu_konpaku_vector_by_gingalibadeidara_dfm3b4d.png)
+![Gray](/images/banner/projects/gray_from_lord_el_melloi_ii_sei_no_jikenbo_by_gingalibadeidara_ddctayh.jpg)
+![Kushima Kamome](/images/banner/projects/kushima_kamome_by_gingalibadeidara_di7j4a8.png)
+![Maomao](/images/banner/projects/maomao_from_kusuriya_no_hitorigoto___vector_by_gingalibadeidara_dj44074.jpg)
+![Komari Chika](/images/banner/projects/chika-vector.webp)
 
