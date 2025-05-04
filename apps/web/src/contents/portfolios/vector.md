@@ -11,6 +11,7 @@ alt: my collection vector
 
 Line art was the first project in 2016 until 2019, but did not post on social media & 2019 was starting a vector project until now.
 
+## Vector ##
 ![Karen Aijou](/images/banner/projects/aijou_karen___vector_by_gingalibadeidara_debnbkj.jpg)
 ![Komichi Akebi](/images/banner/projects/akebi_komichi_by_gingalibadeidara_df1kwpr.png)
 ![Amakawa Haruto](/images/banner/projects/amakawa_haruto__rio__by_gingalibadeidara_dep1y8v.png)
@@ -60,9 +61,19 @@ Line art was the first project in 2016 until 2019, but did not post on social me
 ![Kita Ikuyo V1](/images/banner/projects/kita_ikuyo___minimalist_vector_by_gingalibadeidara_dfsbqd3.png)
 ![Kokkoro](/images/banner/projects/kokkoro_by_gingalibadeidara_ddvdwo5.png)
 ![Karyl](/images/banner/projects/kyaru_from_princess_connect__re_dive_by_gingalibadeidara_ddx4j20.jpg)
+![Muimi Sonoue](/images/banner/projects/muimi_sonoue_by_gingalibadeidara_ddo2uq9.png)
 ![Kono Miyako](/images/banner/projects/kono_miyako_by_gingalibadeidara_ddrzjyz.png)
 ![Kud Wafter](/images/banner/projects/kud_wafter___vector_by_gingalibadeidara_deasg9e.png)
 ![Kuroha Shida](/images/banner/projects/kuroha_shida___vector_by_gingalibadeidara_deko8iu.png)
 ![Lavian Winslet](/images/banner/projects/lavian_winslet___minimalist_by_gingalibadeidara_dfmwlqn.png)
 ![M4A1 and ST-AR15](/images/banner/projects/m4a1_and_st_ar15_by_gingalibadeidara_df0jsci.png)
 ![Manako Ao](/images/banner/projects/manako_ao_by_gingalibadeidara_derhmol.png)
+![Melty](/images/banner/projects/melty_from_tate_no_yuusha_by_gingalibadeidara_dd6r8bu.jpg)
+![Naofumi Iwatani](/images/banner/projects/naofumi_from_tate_no_yuusha_no_nariagari_by_gingalibadeidara_dd6mj4f.jpg)
+![Mia Luna Tearmoon](/images/banner/projects/mia_luna_tearmoon___vector_by_gingalibadeidara_dgkcuyg.png)
+![Miyako Kono V1](/images/banner/projects/miyako_kono_from_22_7_by_gingalibadeidara_de0ywj7.jpg)
+![Nashiro Momiji](/images/banner/projects/nashiro_momiji___gin_iro_haruka_by_gingalibadeidara_degd6wx.png)
+![Nashiro Momiji Minimalist](/images/banner/projects/nashiro_momijo_minimalist___gin_iro_haruka_by_gingalibadeidara_degd7ar.png)
+![Natsu Iwazimizu](/images/banner/projects/natsu_iwazimizu_from_7seeds_by_gingalibadeidara_ddaqom9-pre.jpg)
+
+
