@@ -42,3 +42,11 @@ Line art was the first project in 2016 until 2019, but did not post on social me
 ![Hirasawa Yui](/images/banner/projects/hirasawa_yui_k_on___vector_by_gingalibadeidara_de6y1y2.jpg)
 ![Hori Kyoko](/images/banner/projects/hori_kyoko___vector_by_gingalibadeidara_dee85iw.png)
 ![Hitori Gotoh](/images/banner/projects/hitori_gotoh_bocchi_the_rock_by_gingalibadeidara_dfihk0r.png)
+![Hoshino Takanashi](/images/banner/projects/hoshino_takanashi___vector_by_gingalibadeidara_dgwp6vi.png)
+![Hyori Suzumi](/images/banner/projects/hyori_suzumi_by_gingalibadeidara_df84bva.jpg)
+![Irene Adler](/images/banner/projects/irene_adler_by_gingalibadeidara_dei5976.png)
+![Izumi Miyamura](/images/banner/projects/izumi_miyamura___vector_by_gingalibadeidara_deei75e.png)
+![Kiana Kaslana](/images/banner/projects/kiana_kaslana___vector_by_gingalibadeidara_dedd24e.png)
+![Karen Aijou](/images/banner/projects/karen_aijou_from_starira_by_gingalibadeidara_ddbgkjp.png)
+![Kawasaki Sakura](/images/banner/projects/kawasaki_sakura_by_gingalibadeidara_dehty10.png)
+
