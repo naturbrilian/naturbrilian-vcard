@@ -38,7 +38,7 @@ async function About() {
         <PageHeader header={header} />
       </AnimatedSection>
       <AnimatedSection>
-        <CodeHeader id="introduction" text="$ ls -al Hugo 👨🏻‍💻 (He/Him)" />
+        <CodeHeader id="introduction" text="Natur Brilian 👨🏻‍💻 (SHe/Her)" />
         <div
           className={cn(markdownStyles["markdown"])}
           dangerouslySetInnerHTML={{ __html: content }}
