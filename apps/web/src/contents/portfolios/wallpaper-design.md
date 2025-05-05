@@ -19,7 +19,7 @@ Here is my Wallpaper Design i create before, and you can download for free
 ![Louis James Moriarty](/images/banner/projects/Louis-James.png)
 ![Arimura Romi](/images/banner/projects/romi.png)
 ![Ayane Shindou](/images/banner/projects/175453869_3847701865323612_7622123093203777926_n.jpg)
-![Ayane Shindou](/images/banner/projects/Web-UI.jpg)
+![Arimura Romi Web UI Style](/images/banner/projects/Web-UI.jpg)
 ![Usada Pekora](/images/banner/projects/usada_pekora_wallpaper_desktop_design_by_gingalibadeidara_dfvodf0.png)
 ![Maine Franchois Typography](/images/banner/projects/274816742_4829958100431312_3289631630802945181_n.jpg)
 ![Karina Yoshino](/images/banner/projects/274983487_4829957927097996_3758522456592697552_n.jpg)
